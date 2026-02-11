@@ -1,2 +1,3 @@
-# agentic-gov-v4-stable-1
-Deployed via ZipShip
+# Agentic.Gov Deployment
+1. Upload folder to Netlify Drop (drag & drop).
+2. Profit.
